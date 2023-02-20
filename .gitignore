@@ -1,0 +1,4 @@
+# Ignore everything inside data
+data/
+# Ignore all .CSV file types
+*.csv
